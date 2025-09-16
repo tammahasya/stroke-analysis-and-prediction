@@ -222,7 +222,8 @@ The **neural network** offered the best balance of recall and precision for stro
 
 ## Reproducibility
 
-All code and analysis can be found in the Jupyter notebook:
+All code and analysis can be found in the Jupyter notebook in Github:
+*[Github](https://github.com/tammahasya/stroke-analysis-and-prediction.git)
 
 * [`python/stroke_prediction_rev2.ipynb`](python/stroke_prediction_rev2.ipynb)
 
